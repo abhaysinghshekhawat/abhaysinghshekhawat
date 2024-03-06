@@ -51,7 +51,7 @@ I am _Abhay Singh_. I'm working remotely as a **Back End Java Developer** 🚀 f
 
 
 ### 🎊 Few of my awesome projects:
-- ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.si-bi.com/)
+<!-- - ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.si-bi.com/) -->
 
 
 
